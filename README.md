@@ -6,7 +6,9 @@ Ce dépôt contient les fiches de devoir et supports de TP du module Réseaux In
 Les devoirs sont fait à l'aide du simulateur Cisco Packet Tracer Student. 
 # Packet Tracer version 6 pour Windows 
 lien : https://drive.google.com/file/d/1PFcuDX503Y_7H1DU5P1ApxEIf70oWagY/view?usp=sharing
+
 1- Extraire le fichier .zip
+
 2- Lancer PacketTracer6.exe se trouvant dans le chemin Cisco Packet Tracer 6.2sv/bin/
 
 # Lien de téléchargement de Oracle VM VirtualBox pour Windows 
